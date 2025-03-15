@@ -17,3 +17,11 @@ I begain working on this 03-12-2025.
 
 * Everything should be using GitOps
     * flux?
+
+### 
+Look at the /doc directory for the installation process
+
+
+
+
+

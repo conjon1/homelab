@@ -1,6 +1,9 @@
-# Ubuntu
+# Ubuntu 24.04.2 LTS
 Most of the installation went smoothly for the beelinks
 (the reason everything is bee themes is due to the cluster being on Beelink EQ mini PCs)
+
+#### quick install link 
+https://ubuntu.com/download/server
 
 ## Device names
 * honey1
