@@ -1,8 +1,8 @@
 # Homelab
 
-This repo conatains all the the configuration and documentaion for my homelab.
+This repo contains all the configuration and documentation for my homelab.
 
-I begain working on this 03-12-2025.
+I began working on this 03-12-2025.
 
 # Tooling
 
@@ -19,7 +19,7 @@ I begain working on this 03-12-2025.
     * flux?
 
 ### 
-Look at the /doc directory for the installation process
+Look at the /doc directory for the installation processes
 
 
 
