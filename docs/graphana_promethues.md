@@ -46,11 +46,11 @@ What I want:
 There is a magical file named **/etc/hosts** this bad-boy is amazing when locally developing in a personal homelab
 
 ```
-sudo nano /etc/host
+sudo nano /etc/hosts
 ```
 and int he file you write somthing like this
 
-<your-K3s-server-ip> grafana.local
+`<your-K3s-server-ip> grafana.local`
 
 the *grafana.local* can be anything you want really
 

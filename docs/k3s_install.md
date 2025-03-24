@@ -16,8 +16,8 @@ https://docs.k3s.io/installation
 https://docs.k3s.io/cluster-accessP
 
 # 1 ssh'in 
-pretty simple all ou do is ssh into the nodes i just opened 3 terminals and had them diplayed at the same time
-
+pretty simple all ou do is ssh into the nodes i just opened 3 terminals and had them diplayed at the same time 
+Also i set my zshrc profile aliases to eaily ssh in quickly
 
 # 2 Putting k3s in the honey 
 
